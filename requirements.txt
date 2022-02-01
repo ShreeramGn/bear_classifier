@@ -1,6 +1,8 @@
 voila
 fastai>=0.0.16
 tensorflow-cpu
+torch==1.10.2+cu102 
+torchvision==0.11.3+cu102
 pillow<7
 packaging
 ipywidgets==7.5.1
