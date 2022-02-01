@@ -1,8 +1,9 @@
 voila
+fastai>=0.0.16
+tensorflow-cpu==2.6.0
 -f https://download.pytorch.org/whl/torch_stable.html
 torch==1.8.1+cpu
 torchvision==0.9.1+cpu
-fastai>=2
 pillow<7
 packaging
 ipywidgets==7.5.1
